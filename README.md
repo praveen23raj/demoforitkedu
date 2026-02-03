@@ -50,4 +50,4 @@ The solution was developed as a complete production-like system, including datab
 
 ## Get Wallet Balance
 
-GET /api/v1/wallets/{WALLET_UUID}
+GET /api/v1/wallets/11111111-1111-1111-1111-111111111111

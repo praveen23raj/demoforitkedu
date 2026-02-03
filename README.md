@@ -47,3 +47,7 @@ The solution was developed as a complete production-like system, including datab
   "operationType": "DEPOSIT" | "WITHDRAW",
   "amount": 1000
 }
+
+## Get Wallet Balance
+
+GET /api/v1/wallets/{WALLET_UUID}
